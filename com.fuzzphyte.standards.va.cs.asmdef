@@ -1,0 +1,17 @@
+{
+    "name": "com.fuzzphyte.standards.va.cs",
+    "rootNamespace": "FuzzPhyte.Standards.VA.CS",
+    "references": [
+        "GUID:b2274f1409ce26f40919f89f9d4f667c",
+        "GUID:c11ed4f333cda2e458506817f9aa71a2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

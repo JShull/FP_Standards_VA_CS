@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ae9d6781a8b8684ca274dcd5d69a986, type: 3}
+  m_Name: CS_CC_Networking
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_Strands_1_005
+  StrandName: Networking and the Internet
+  StrandDescription: Just like electricity travels through a closed circuit, information
+    in a computing system needs a physical or wireless path to travel to be sent
+    and received. Networking and the Internet transfers information from one place
+    to the next
+  Strand: 0
+  StrandTheme: {fileID: 11400000, guid: 96dfff944a58bee48b848503cfbbe4a3, type: 2}
+  GameSceneName: 01_School_JVerse_V2
+  Standards:
+  - {fileID: 11400000, guid: a8c173d56bb4ba048ab2f7a82fccdda2, type: 2}

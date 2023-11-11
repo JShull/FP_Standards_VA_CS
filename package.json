@@ -1,0 +1,31 @@
+{
+    "name": "com.fuzzphyte.standards.va.cs",
+    "version": "0.1.0",
+    "displayName": "FP Standards Virginia State Computer Science",
+    "description": "FP Standards.VA.CS is a scriptable object set of classes for computer science standards by VA",
+    "unity": "2022.3",
+    "unityRelease": "13f1",
+    "documentationUrl": "https://github.com/jshull/FP_Standards_VA_CS/README.md",
+    "changelogUrl": "https://github.com/jshull/FP_Standards_VA_CS/CHANGELOG.md",
+    "licensesUrl": "https://github.com/jshull/FP_Standards_VA_CS/LICENSE.md",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/jshull/FP_Standards_VA_CS.git"
+    },
+    "dependencies": {
+      "com.fuzzphyte.utility": "https://github.com/JShull/FP_Utility.git",
+      "com.fuzzphyte.utility.edu":"https://github.com/JShull/FP_Utility_EDU.git"
+    },
+    "keywords": [
+      "CS",
+      "Standards",
+      "Analytics",
+      "FuzzPhyte"
+    ],
+    "author": {
+      "name": "John Shull",
+      "email": "the.john.shull@gmail.com",
+      "url": "https://github.com/jshull"
+    },
+    "type": "tool"
+  }

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf263fee9b47cf343a1c5a201ab1fa2d, type: 3}
+  m_Name: Data_Analysis_Standards_2
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_LS_2_11_002
+  VAStandardGrade: {fileID: 11400000, guid: 45403026f19b387488f0caf12b2cc0eb, type: 2}
+  VAStandardName: Data & Analysis
+  VAStandardIndex: 2
+  StatePDFPageRef: 44
+  Objectives:
+  - {fileID: 11400000, guid: 2d346c4a64144064180b4b3c46632714, type: 2}
+  - {fileID: 11400000, guid: 516f55243779f44449231e43d7566070, type: 2}
