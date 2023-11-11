@@ -1,6 +1,6 @@
 {
     "name": "com.fuzzphyte.standards.va.cs",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "displayName": "FP Standards Virginia State Computer Science",
     "description": "FP Standards.VA.CS is a scriptable object set of classes for computer science standards by VA",
     "unity": "2022.3",
